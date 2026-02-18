@@ -1,2 +1,3 @@
 # my-2nd-project
 this is my 2nd git repository
+author - aishwarya talawar
